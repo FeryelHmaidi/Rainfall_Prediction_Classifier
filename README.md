@@ -112,20 +112,6 @@ The Random Forest classifier achieved better overall performance than Logistic R
 
 ---
 
-##  Project Structure
-
-```
-├── data/
-│   └── weather.csv
-├── notebooks/
-│   └── RainPrediction.ipynb
-├── images/
-│   └── feature_importance.png
-│   └── confusion_matrix.png
-├── README.md
-└── requirements.txt
-```
-
 ##  Skills Demonstrated
 
 - Data Cleaning
